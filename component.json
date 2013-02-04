@@ -1,0 +1,7 @@
+{
+  "name": "tweenJS",
+  "version": "0.3.0",
+  "main": ["./lib/tweenjs-0.3.0.min.js", "./lib/easeljs-0.5.0.min.js"],
+  "dependencies": {
+  }
+}
